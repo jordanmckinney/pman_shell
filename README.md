@@ -2,7 +2,7 @@
 
 ### Overview
 
-This project consists of a simple shell capable of starting and managing background processes. 
+This project consists of a simple shell that uses Linux system calls to start, stop, resume and provide a summary of background processes. 
 
 ### Compilation/Execution
 
